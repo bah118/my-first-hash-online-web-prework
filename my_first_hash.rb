@@ -4,9 +4,6 @@ def my_hash
     "lunch" => "salad",
     "dinner" => "tacos and burritos"
   }
-  
-
-  
 end
 
 
